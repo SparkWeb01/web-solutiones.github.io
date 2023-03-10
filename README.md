@@ -1,1 +1,1 @@
-websolutions.github.io
+websolutions
