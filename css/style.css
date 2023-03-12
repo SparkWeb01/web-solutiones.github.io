@@ -1,5 +1,5 @@
 body {
-    overflow: hidden;
+    
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -76,6 +76,7 @@ a {
 
 /* Container */
 .container {
+    overflow: hidden;
     width: 100%;
     max-width: 1230px;
     padding: 0 15px;
