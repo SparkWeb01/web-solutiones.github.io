@@ -774,7 +774,6 @@ a:hover{
  
   .container {
     max-width: 1200px;
-    height: auto;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
