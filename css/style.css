@@ -803,6 +803,7 @@ a:hover{
     -ms-transition: 0.4s background-color ease;
     transition: 0.4s background-color ease;
     height: 600px;
+    margin-bottom: 15px;
     background-color: white;
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
